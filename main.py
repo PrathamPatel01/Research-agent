@@ -14,7 +14,7 @@ llm = ChatGroq(
     api_key=os.getenv("GROQ_API_KEY")
 )
 
-# 2. Search engine tool
+# 2. Search engine tooll
 ddg = DuckDuckGoSearchRun()
 
 # 3. Query generator chain
