@@ -11,7 +11,7 @@ from lxml import html
 
 
 class WebsiteScraperAgent:
-    """Simple agent that fetches and extracts structured data from a web pageee."""
+    """Simple agent that fetches and extractsss structured data from a web pageee."""
 
     def __init__(
         self,
