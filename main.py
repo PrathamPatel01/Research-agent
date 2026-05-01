@@ -57,7 +57,7 @@ print("🤖 Research Digest Agent")
 print("Type a topic to research, or 'quit' to exit\n")
 
 while True:
-    topic = input("📝 Enter topic: ").strip()
+    topic = input("📝 Enter topic to be researched: ").strip()
     
     if topic.lower() == "quit":
         print("👋 Goodbye!")
