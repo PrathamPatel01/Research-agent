@@ -52,7 +52,7 @@ def research_digest(topic: str):
     print(digest.content)
     print("="*50)
 
-# 6. Interactive loop
+# 6. Interactive loopp
 print("🤖 Research Digest Agent")
 print("Type a topic to research, or 'quit' to exit\n")
 
