@@ -7,7 +7,7 @@ import os
 
 load_dotenv()
 
-# 1. LLM
+# 1. LLM with groq
 llm = ChatGroq(
     model="llama-3.3-70b-versatile",
     temperature=0,
